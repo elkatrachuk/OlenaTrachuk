@@ -34,7 +34,18 @@ _NodeJs_ | _Express_ | _Sequelize_ | _PostgreSQL_
 _Visual Studio Code_ | _GIT_
 
 # Projects
-# Roket IT
+
+</br>
+
+**Roket IT**
+My first fullstack project at the Codaisseur bootcamp was about IT courses. At this App you can find different IT courses and became participant if you want study some course. Also you can create new IT course if you are an author of some course.
+
+[Roket IT Backend](https://github.com/elkatrachuk/portfolio_backend)
+
+[Roket IT Frontend](https://github.com/elkatrachuk/portfolio_frontend)
+
+
+
 
  
 
