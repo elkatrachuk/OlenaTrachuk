@@ -10,9 +10,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/olena-trachuk/)
 
 **Frontend**
 
-<img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg" alt="" height="64" width="64" /> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="" height="64" width="80" /> 
+<img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg" alt="" height="64" width="84" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="" height="64" width="80" /> 
 
 
 
