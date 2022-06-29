@@ -15,6 +15,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/olena-trachuk/)
 _ReactJs_ | _Redux_ | _Javascript_ | _HTML_ | _CSS_ | _Material UI_ | _TypeScript_
 </br>
 </br>
+</br>
 
 **BACKEND**
 
