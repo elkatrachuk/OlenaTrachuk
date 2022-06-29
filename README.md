@@ -60,8 +60,6 @@ My first fullstack project at the Codaisseur bootcamp was about IT courses. At t
 
 
 
-
-
  
 
 
