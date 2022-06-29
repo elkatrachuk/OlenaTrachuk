@@ -27,7 +27,7 @@ _NodeJs_ | _Express_ | _Sequelize_ | _PostgreSQL_
 </br>
 </br>
 
-# Tech stack TOOLS
+# TOOLS
 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/visualstudio_code_logo_icon_170248.png" alt="" height="64" width="100" /> &nbsp;&nbsp;&nbsp;<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" alt="" height="64" width="100" />
 
