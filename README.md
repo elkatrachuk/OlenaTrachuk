@@ -1,5 +1,5 @@
 # Hi there 👋
-I just finished Full stack developer course at Codaisseur Academy [GitHub Pages](https://media.giphy.com/avatars/Codaisseur/jq1HCWR39nrD.png)
+I just finished Full stack developer course at Codaisseur Academy [Codaisseur Academy](https://codaisseur.com/courses/academy/)
 
 I am looking for a job now.
 I realy want to become a strong Full stack developer in a great company.
