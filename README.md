@@ -44,6 +44,12 @@ My first fullstack project at the Codaisseur bootcamp was about IT courses. At t
 
 [Roket IT Frontend](https://github.com/elkatrachuk/portfolio_frontend)
 
+**DEMO**
+
+<img src="https://res.cloudinary.com/dud55b6nb/image/upload/v1656515244/ezgif-5-3e3a094494_sjyqpp.gif" alt="" height="337" width="600" />
+<img src="https://res.cloudinary.com/dud55b6nb/image/upload/v1656515244/ezgif-5-c39b035383_sqo5bu.gif" alt="" height="337" width="600" />
+<img src="https://res.cloudinary.com/dud55b6nb/image/upload/v1656515245/ezgif-5-55f946a269_xg9lxs.gif" alt="" height="337" width="600" />
+
 
 
 
