@@ -10,7 +10,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/olena-trachuk/)
 
 **Frontend**
 
-<img src="https://res.cloudinary.com/dud55b6nb/image/upload/v1656499087/react_03_ac1rb2.png" alt="" height="64" width="64" /> <img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg" alt="" height="64" width="64" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="" height="64" width="84" /> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" alt="" height="64" width="64" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" alt="" height="64" width="64" /> <img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="" height="64" width="64" /> 
+<img src="https://res.cloudinary.com/dud55b6nb/image/upload/v1656499087/react_03_ac1rb2.png" alt="" height="64" width="64" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="" height="64" width="84" /> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png" alt="" height="64" width="64" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/512px-HTML5_logo_black.svg.png" alt="" height="64" width="64" /> <img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="" height="64" width="64" /> 
 
 
 
