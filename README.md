@@ -17,7 +17,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/olena-trachuk/)
 
 **BACKEND**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="" height="64" width="94" />&nbsp;&nbsp;&nbsp;<img src="https://www.jsexpert.net/wp-content/themes/clevercourse-v2-03/images/backend/express.png" alt="" height="64" width="100" />&nbsp;&nbsp;&nbsp;<img src="https://miro.medium.com/max/661/1*XcE0wR1ZmWLFbdF2dE5WuA.png" alt="" height="64" width="100" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="" height="64" width="94" />&nbsp;&nbsp;&nbsp;<img src="https://www.jsexpert.net/wp-content/themes/clevercourse-v2-03/images/backend/express.png" alt="" height="64" width="100" />&nbsp;&nbsp;&nbsp;<img src="https://miro.medium.com/max/661/1*XcE0wR1ZmWLFbdF2dE5WuA.png" alt="" height="74" width="120" /> 
 
  
 
