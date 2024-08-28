@@ -1,10 +1,9 @@
 # Hi there 👋
-I just finished Full stack developer course at [Codaisseur Academy](https://codaisseur.com/courses/academy/)
 
 I am looking for a job now.
 I realy want to become a strong Full stack developer in a great company.
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/olena-trachuk/)
+
 </br>
 </br>
 </br>
@@ -38,7 +37,7 @@ _Visual Studio Code_ | _GIT_
 </br>
 
 **Roket IT**
-My first fullstack project at the Codaisseur bootcamp was about IT courses. At this App you can find different IT courses and became participant if you want study some course. Also you can create new IT course if you are an author of some course.
+At this App you can find different IT courses and became participant if you want study some course. Also you can create new IT course if you are an author of some course.
 
 [Roket IT Backend](https://github.com/elkatrachuk/portfolio_backend)
 
